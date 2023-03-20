@@ -52,6 +52,6 @@ youtube
 English - A1\
 Russian - native speaker.
 
-## My proects:
+## My projects:
 Rsshool, stage#0: Plants(https://rolling-scopes-school.github.io/sergei404-JSFEPRESCHOOL2022Q4/plants/)
 Internship: Нежно(https://sergei425.github.io/home-page/)
